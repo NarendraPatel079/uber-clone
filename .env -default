@@ -1,0 +1,2 @@
+BASE_URL=http://{your_app_base_url}/
+GOOGLE_MAPS_API_KEY=
